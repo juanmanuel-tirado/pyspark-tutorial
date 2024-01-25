@@ -1,2 +1,4 @@
 # pyspark-tutorial
-This is a collection of PySpark tutorials
+This repo constains a collection of PySpark tutorials.
+
+- PySpark MLlib
